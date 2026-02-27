@@ -4,7 +4,7 @@
 
 [![Zig](https://img.shields.io/badge/zig-0.11+-orange.svg)](https://ziglang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da.svg)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2.svg)](https://x.com/AnonAntics)
 
 Binary hex viewer written in Zig demonstrating compile-time safety and explicit error handling.
 
@@ -34,5 +34,5 @@ zig build-exe hexdump.zig -O ReleaseFast
 
 ## Community
 
-- **Discord**: [discord.gg/killers](https://discord.gg/killers)
+- **Twitter**: [x.com/AnonAntics](https://x.com/AnonAntics)
 - **GitHub**: [bad-antics](https://github.com/bad-antics)
